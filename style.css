@@ -1,0 +1,37 @@
+h1 {
+    font-size: 1.6cm;
+    text-align: center;
+    color: rgb(238, 75, 102);
+    -webkit-text-stroke: 1.5px black;
+}
+
+h2 {
+    font-size: .9cm;
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: .9px black;
+    background-color: rgba(172, 163, 165, 0.285);
+    border: 3px solid palevioletred
+}
+
+h3 {
+    font-size: .6cm;
+    text-align: left;
+    color: black;
+}
+
+.list {
+    font-size: .45cm;
+    text-align: left;
+    color: black;
+}
+
+.box{
+    display: inline-block;
+    padding-inline: 50px;
+    border: 3px solid palevioletred;   
+    margin: 20px;
+    background-color: rgba(250, 229, 232, 0.843);
+    vertical-align: middle;
+    
+}
